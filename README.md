@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [FESTIVIA](https://github.com/JYOTHISHTM/festivia.git)
 
-- 🌱 I’m currently learning **NEST JS*
+- 🌱 Currently learning **NEST JS*
 
-- 📫 How to reach me **jothishtm2002@gmail.com**
+- 📫 Reach me on  **jothishtm2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

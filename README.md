@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyothishtm&label=Profile%20views&color=0e75b6&style=flat" alt="jyothishtm" /> </p>
 
-- 🔭 I’m currently working on [FESTIVIA](https://github.com/JYOTHISHTM/FoodScanner)
+- 🔭 I’m currently working on [FOODSCANNER](https://github.com/JYOTHISHTM/FoodScanner)
   
 
 - 📫 Reach me on  **jothishtm2002@gmail.com**

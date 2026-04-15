@@ -8,8 +8,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write      # ← This is the most important fix
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -17,8 +22,8 @@ jobs:
           outputs: |
             dist/github-snake.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v5   # updated to latest
         with:
           target_branch: output
           build_dir: dist

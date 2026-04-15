@@ -65,3 +65,5 @@ Secure authentication system with JWT, role-based access, and scalable backend a
 
 ## 📈 GitHub Activity Graph
 [![JYOTHISH's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jyothishtm&theme=github-compact)](https://github.com/jyothishtm)
+
+![GitHub Snake](https://raw.githubusercontent.com/JYOTHISHTM/JYOTHISHTM/output/github-snake.svg)

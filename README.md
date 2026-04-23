@@ -60,8 +60,6 @@ Secure authentication system with JWT, role-based access, and scalable backend a
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jyothishtm&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-## 📊 GitHub Overview
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyothishtm&theme=tokyonight)
 
 ## 📈 GitHub Activity Graph
 [![JYOTHISH's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jyothishtm&theme=github-compact)](https://github.com/jyothishtm)

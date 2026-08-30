@@ -37,7 +37,7 @@
 
 ### 🔹 Festivia  
 Smart festival discovery platform to explore events, schedules, and celebrations.  
-🔗 Live Demo: https://festivia.jothish.online/  
+🔗 Live Demo: https://festivia-event-management.vercel.app
 💻 Repo: https://github.com/JYOTHISHTM/festivia-frontend
 
 ### 🔹 FoodScanner  
@@ -53,7 +53,7 @@ Secure authentication system with JWT, role-based access, and scalable backend a
 ---
 
 ## 🌐 Portfolio  
-🔗 View my complete work here: https://portfolio.jothish.online/
+🔗 View my complete work here: https://jothish-portfolio.vercel.app
 
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=jyothishtm&theme=dark&hide_border=true)<br/>
